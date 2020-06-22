@@ -1,0 +1,141 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3%;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 0;
+  font-size: ;
+  margin:2%;
+}
+
+h3 {
+  padding:2em;
+  text-align: center;
+  font-weight: 100%;
+  font-size: 200%;
+}
+
+h4{
+  text-align: center;
+  font-size: 2em;
+  margin:0%;
+}
+
+h5 {
+  text-align: center;
+  text:blue;
+}
+.code{
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+.container{
+  display:flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+.container > div > img {
+  width:100px;
+  height: 100px;
+}
+.pique{
+  text-align: center;
+  padding:2em;
+}
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+nav li {
+  display: inline-block;
+  margin-top: 0;
+  margin-right: 12px;
+  margin-left: 12px;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+
+.kenzie{
+text-align: center;
+}
+
+.submit-button {
+  background-color: purple;
+  text-decoration: none !important;
+  color: white;
+  padding: 0.5em;
+  border-radius: 6px;
+  width: 8em;
+  text-align: center;
+  display: inline-block;
+}
+
+.blue-button,
+.signup-form form input[type="submit"] {
+  background-color: rgb(103, 82, 241);
+  text-decoration: none;
+  text-align: center;
+  width: 8em;
+  border-radius: 6px;
+  padding: 0.5em;
+  color: white;
+}
+.parent{
+  display: flex;
+}
+
+
+.pique{
+  text-align: center;
+}
+.iframe{
+  display:flexbox;
+  flex-direction:center;
+  padding-top: 4em;
+}
+
+.btn-submit {
+  background-color: rgb(103, 82, 241);
+  text-decoration: none;
+  text-align: center;
+  width: 8em;
+  border-radius: 6px;
+  padding: 0.5em;
+  color: white;
+  font-size: medium;
+
+.name{
+    justify-content: center; 
+    display: flex;
+    flex-direction:row;
+}
+
+.small {
+  text-align: center;
+}
+
+
+.par1 {
+  text-align:center;
+  display: flex;
+  background-image: center;
+  padding:2em;
+  text-align: center;
+  font-weight: 100%;
+  font-size: 200%;
+}
+
+.video{
+  width: 6px;
+  height:4px;
+}
